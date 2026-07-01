@@ -4,7 +4,7 @@ z = int(input("Enter divisor: "))
 
 remainder = number % z
 
-print("Remainder is Diya:", remainder)
+print("Remainder is :", remainder)
 
 
 #check the type of variable assign using input()
