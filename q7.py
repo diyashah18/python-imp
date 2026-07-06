@@ -1,0 +1,6 @@
+#Print 5 different messages using print()
+print("Hello!")
+print("Welcome to Python.")
+print("Python is easy to learn.")
+print("Keep practicing every day.")
+print("Have a great day!")
